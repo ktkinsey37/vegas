@@ -1,0 +1,3 @@
+[submodule "vegasFrontend"]
+	path = vegasFrontend
+	url = https://github.com/ktkinsey37/vegasFrontend
